@@ -8,8 +8,10 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 public class Address {
+    // 주석 추가
     private String postCode;
     private String location;
     private String address;
     private String attribute;
+    // git 어렵네
 }
