@@ -13,4 +13,5 @@ import java.time.YearMonth;
 public class Card {
     private String no;
     private YearMonth validMonth;
+    // 주석 정리 추가
 }
