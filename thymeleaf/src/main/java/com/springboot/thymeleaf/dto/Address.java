@@ -13,5 +13,7 @@ public class Address {
     private String location;
     private String address;
     private String attribute;
-    // git 어렵네
+
+    private String github;
+
 }
